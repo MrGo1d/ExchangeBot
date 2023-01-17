@@ -28,8 +28,6 @@ async def help(message: types.Message):
 @dp.message_handler(commands=["currency"])
 async def currency(message: types.Message):
     print(message.from_user)
-    print(message.chat.active_usernames)
-    print(message.chat.bio)
     msg1 = await bot.send_message(message.chat.id, text="Обработка запроса...")
     main()
     msg = await bot.send_photo(message.chat.id, types.InputFile('cut.png'))
