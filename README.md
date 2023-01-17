@@ -2,7 +2,7 @@
 			            * * *
 This is a simple bot for residents of Belarus that is needed to get
 the current exchange rate and track the progress of trading on the
-currency exchange. Many foreigners may not understand such concerns,
+currency exchange (cut.png for example). Many foreigners may not understand such concerns,
 but when your salary can shrink by a few percent per day, this is a
 good reason to know the situation in the foreign exchange market.
 Traditionally, Belarusians trust the US dollar the most.
