@@ -1,4 +1,7 @@
 # ExchangeBot
+:robot: TGBot
+
+
 			            		* * *
 This is a simple bot for residents of Belarus that is needed to get
 the current exchange rate and track the progress of trading on the
